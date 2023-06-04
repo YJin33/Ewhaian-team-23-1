@@ -1,0 +1,56 @@
+.SignUpAll {
+    float: center;
+}
+
+.SignUpTitle {
+    font-size: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    float: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+table {
+    float: center;
+    width: 73%
+}
+
+td {
+    text-align: right;
+    justify-content: space-between;
+    height: 70px;
+
+}
+
+input {
+    background-color: white;
+    width: 100%;
+    height: 40px;
+    border: transparent;
+    float: left;
+}
+
+.Second {
+    width: 75%;
+}
+
+#HaveBtn input {
+    width: 80%;
+}
+
+.SubmitBtn {
+    background-color: white;
+    width: 10%;
+    float: center;
+
+}
+
+.CheckDuplicate {
+    background-color: white;
+    border: 3px solid #002B5B;
+    height: 40px;
+    width: 18%;
+
+}
